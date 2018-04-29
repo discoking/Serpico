@@ -2,11 +2,9 @@
 ## SimplE RePort wrIting and CollaboratiOn tool
 Serpico is a penetration testing report generation and collaboration tool. It was developed to cut down on the amount of time it takes to write a penetration testing report.
 
-Video Demo of Functionality:
+[Serpico Demo Video](https://www.youtube.com/watch?v=Sj7DkaQyx5o)
 
-* [Serpico - Demo 1](https://www.youtube.com/watch?v=G_qYcL4ynSc)
-
-* [Additional Video Demos](https://github.com/SerpicoProject/Serpico/wiki#online-demos)
+[Additional Video Demos](https://github.com/SerpicoProject/Serpico/wiki#online-demo)
 
 ## Installation
 
@@ -82,14 +80,13 @@ See also:
 
 * [Serpico Meta-Language In Depth](https://github.com/SerpicoProject/Serpico/wiki/Serpico-Meta-Language-In-Depth)
 
-* [Inserting Screenshots](https://github.com/SerpicoProject/Serpico/wiki/Inserting-Screenshots): This is an area we know needs development so e-mail us with any ideas.
-
 
 ## Support
 * [Wiki](https://github.com/MooseDojo/Serpico/wiki): We try to add most common questions to the wiki.
+* [Slack](https://serpicoproject.slack.com)
 * [IRC: #therealserpico](http://webchat.freenode.net/?channels=%23therealserpico&uio=d4) on freenode
 * [Issue](https://github.com/SerpicoProject/Serpico/issues/new) : If you have found a bug or would like a new feature
-* [E-mail Support](https://www.serpicoproject.com/purchase/): For teams of users or template related questions
+* [E-mail Support](https://www.serpicoproject.com/support/): For teams of users or template related questions
 
 ## GOTCHAS
 * Microsoft has a really annoying habit of changing a character for you. Always beware of this when working with the meta language
